@@ -1,0 +1,6 @@
+Class A{
+/*
+
+Some code to go inside....
+*/
+}

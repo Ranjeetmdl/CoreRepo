@@ -1,2 +1,3 @@
 # CoreRepo
 This is for core project purpose...
+This is again for new concept
