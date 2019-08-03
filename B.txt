@@ -1,0 +1,6 @@
+Class B{
+
+*/ This is rquired for nw thing
+
+*/
+}
